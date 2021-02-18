@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Evgenij00/node-mongo-app#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
     "mongoose": "^5.11.17"
   },
   "devDependencies": {
